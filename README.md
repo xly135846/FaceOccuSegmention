@@ -25,7 +25,7 @@
 * Snapdragon 845
 * MobileNetV2
 | image-size| MobilenetV2-size| CPU-xnnpack/ms| GPU/ms |
-| :-----| ----: | :----: |
+| :-----| ----: | :----: | :----: |
 | 128 |  0.35 | 6.4 | 4.5 |
 | 128 |  0.5 | 7.6 | 4.8 |
 | 128 |  0.75 | 11.9 | 4.6 |
