@@ -34,5 +34,9 @@
 | 192 |  0.5 | 17.9 | 5.1 |
 | 192 |  0.75 | 27.7 | 6.2 |
 
+## Video
+* We git better performance than qingyan-4.7.1. If you want more case vidoes, pleace contact us.
+* http://nyJD.tipian02.cn/l1_JekgNa
+
 ## Contact
-Sorry for that the code is disorderly. If you have any question, please contact me hundan135846@163.com. Thanks. 
+Sorry for that the code is disorderly. If you have any question, please contact us hundan135846@163.com. Thanks. 
