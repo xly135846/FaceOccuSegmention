@@ -35,7 +35,7 @@
 | 192 |  0.75 | 27.7 | 6.2 |
 
 ## Video
-* We git better performance than qingyanxiangji-4.7.1. If you want more case vidoes, pleace contact us.
+* We git better performance than qingyanxiangji-4.7.1. If you want to watch more case vidoes or the following link is invalid, pleace contact us.
 * http://nyJD.tipian02.cn/l1_JekgNa
 
 ## Contact
