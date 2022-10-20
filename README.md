@@ -24,6 +24,7 @@
 ## Once Time
 * Snapdragon 845
 * MobileNetV2
+
 | image-size| MobilenetV2-size| CPU-xnnpack/ms| GPU/ms |
 | :-----| ----: | :----: | :----: |
 | 128 |  0.35 | 6.4 | 4.5 |
